@@ -1,0 +1,91 @@
+BIC AI HORIZON COMMUNITY LICENSE
+Version 1.0
+
+Copyright (c) 2026 Biratnagar International College AI Horizon Community.
+All rights reserved.
+
+By default, all public repositories of the BIC AI Horizon Community are
+released under this License, unless a repository states otherwise. This
+License applies to all source code, documentation, and other materials
+published in those repositories (the "Work").
+
+Read the terms below carefully before using, copying, modifying, or
+distributing the Work.
+
+
+1. PERMITTED USE
+
+You may use, copy, modify, build upon, and share the Work, in whole or in
+part, for learning, research, and community or personal projects, provided
+you comply with the conditions in Section 2.
+
+
+2. CONDITIONS
+
+2.1 Attribution.
+    You must give explicit credit to every original author and contributor
+    of the Work.
+
+2.2 Notices.
+    You must keep all copyright, license, and attribution notices intact in
+    any copy or substantial portion of the Work.
+
+2.3 Modifications.
+    You must clearly mark any changes you make and must not present modified
+    work as if it were the original.
+
+2.4 License reference.
+    Any copy, reuse, modification, or distribution of the Work must state
+    that it is covered by the BIC AI Horizon Community License.
+
+
+3. PROHIBITED USE
+
+3.1 No unauthorized security testing.
+    You may not perform penetration testing, vulnerability scanning, or any
+    other form of security testing on systems, members, or institutional
+    resources without explicit permission from the Dev Corps heads or the
+    Community Steering Heads.
+
+3.2 No misrepresentation.
+    You may not claim the Work as your own or present it as if it were
+    originally created by you.
+
+3.3 No unethical use.
+    You may not use the Work for unauthorized, unsafe, or unethical
+    activities, or in violation of the community rules.
+
+
+4. REPOSITORY INTEGRITY
+
+4.1 Repository history must not be deleted or rewritten. Existing
+    repositories may only be extended by adding new commits and changes.
+
+4.2 You may not clone a repository covered by this License, delete its Git
+    history, and re-publish it as a new repository.
+
+4.3 Deleting a repository, including its history, requires proper review
+    and approval from community members and the Community Steering Heads.
+
+
+5. NO WARRANTY
+
+The Work is provided "as is", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose, and non-infringement. In no event shall
+the authors, contributors, or the BIC AI Horizon Community be liable for
+any claim, damages, or other liability arising from the use of the Work.
+
+
+6. TERMINATION
+
+Your rights under this License terminate automatically if you violate any
+of its conditions. Upon termination, you must stop using and distributing
+the Work. Rights may be restored at the discretion of the Community
+Steering Heads.
+
+
+7. ACCEPTANCE
+
+By using, copying, modifying, or distributing the Work, you accept and
+agree to the terms of this License.

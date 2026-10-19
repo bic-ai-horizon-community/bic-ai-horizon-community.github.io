@@ -68,6 +68,11 @@ ol > li:last-child {
     margin-bottom: 0;
 }
 
+li.prohibited {
+    padding: 0.75rem 1rem;
+    border: 2px solid #b00020;
+}
+
 li > strong {
     display: block;
 }
